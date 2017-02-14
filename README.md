@@ -19,14 +19,14 @@
 * Codecademy：很好的教学站点。（python、js、html尤佳）
 
 
-公众号
+自媒体（大部分有同名公众号）
 
-* 神秘的程序员们：很有意思的漫画，入木三分，出自西乔
+* [神秘的程序员们](http://blog.xiqiao.info/category/programmers)：很有意思的漫画，入木三分，出自西乔
 * 城市数据团：虽然是一群学生做的，但非常有潜力
-* Yivian虚拟现实资讯：非常专业的VR品类公众号
-* ResysChina：推荐系统的老号，有一些国内的老油条操刀
-* AI100：偏深度学习，AI方向的专业公众号，内容很fresh
-* 机器之心：很强悍的机器学习公众号，内容团队非常强
+* [Yivian虚拟现实资讯](https://yivian.com/)：非常专业的VR品类号
+* [ResysChina](https://zhuanlan.zhihu.com/resyschina)：推荐系统的老号，有一些国内的老油条操刀
+* AI100：偏深度学习，AI方向的专业号，内容很fresh
+* [机器之心](http://www.jiqizhixin.com/)：很强悍的机器学习号，内容团队非常强
 
 
 ## 语言
@@ -35,5 +35,5 @@
 * C++：通往高性能、海量并发的必经之路，C++还是大公司的首选
 * Python：深度学习、图像处理、文本处理、爬虫、后台皆能轻松搞定的万能语言，不得不掌握
 * Scala：MR类型分布式必备，本身语言设计也非常优雅，强力推荐
-* 通用：各个语言的库、工具不一一列举，自行 google “awesome-<language>”为佳
+* 通用：各个语言的库、工具不一一列举，自行 google “awesome-\<language\>”为佳
 
